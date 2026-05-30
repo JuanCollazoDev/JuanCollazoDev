@@ -12,7 +12,8 @@ Soy un desarrollador enfocado en el diseño de sistemas de información de alta 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Otros Paradigmas y Herramientas:** - Programación Estructurada y OOP (Pascal, Smalltalk)
+**Otros Paradigmas y Herramientas:** 
+- Programación Estructurada y OOP (Pascal, Smalltalk)
 - Programación Funcional y Lógica (Elixir, Prolog)
 - Manejo avanzado de consultas SQL y modelado de bases de datos relacionales.
 
