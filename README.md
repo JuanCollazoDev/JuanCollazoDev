@@ -36,4 +36,4 @@ Tengo sólida experiencia en **desarrollo colaborativo y metodologías ágiles**
 
 ### 📫 Contacto
 - **Ubicación:** Concepción del Uruguay, Argentina.
-- <a href="https://www.linkedin.com/in/juan-ignacio-collazo-fiorotto-527a52412" target="_blank">LinkedIn</a> 🚀
+- **LinkedIn:** [linkedin.com/in/juan-ignacio-collazo-fiorotto-527a52412](https://www.linkedin.com/in/juan-ignacio-collazo-fiorotto-527a52412) 🚀
