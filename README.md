@@ -1,4 +1,4 @@
-# Hola, soy Juan Collazo 👋
+# Hola, soy Juan Ignacio Collazo Fiorotto 👋
 
 ### Analista y Desarrollador de Sistemas de Información | .NET Specialist | Estudiante de Ingeniería @ UTN
 
