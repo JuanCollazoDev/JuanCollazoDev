@@ -1,6 +1,6 @@
 # Hola, soy Juan Collazo 👋
 
-### Analista de Sistemas de Información | .NET Specialist | Estudiante de Ingeniería @ UTN
+### Analista y Desarrollador de Sistemas de Información | .NET Specialist | Estudiante de Ingeniería @ UTN
 
 Soy un desarrollador enfocado en el diseño de sistemas de información de alta disponibilidad y optimización de rendimiento. Actualmente cursando el 4to año de ingeniería, aplico principios de arquitectura limpia y patrones de diseño para resolver problemas complejos en los sectores de logística y finanzas.
 
